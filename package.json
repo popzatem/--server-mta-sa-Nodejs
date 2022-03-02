@@ -22,9 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://popzatem@bitbucket.org/popzatem/api.git"
+    "url": "git+https://popzatem@github.com/popzatem/--server-mta-sa-Nodejs.git"
   },
   "keywords": [],
-  "homepage": "https://bitbucket.org/popzatem/api#readme",
+  "homepage": "https://github.com/popzatem/--server-mta-sa-Nodejs",
   "description": ""
 }
